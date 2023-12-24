@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá 👋
+eu programo java script.
+pretendo aprender outras linguagens também, e a próxima é type script.
 <!--
 **LMI144/LMI144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
